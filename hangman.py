@@ -10,4 +10,4 @@ def get_valid_word(words_list):
         random_word = random.choice(words_list)
     return random_word
 
-print(get_valid_word(words_list))
+print(get_valid_word(words_list)) 
